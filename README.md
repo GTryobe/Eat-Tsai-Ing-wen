@@ -7,7 +7,7 @@
 
 <div align="right">
 
-*——GTryob*
+*——GTryobe*
 
 </div>
 
