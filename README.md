@@ -24,7 +24,9 @@
 
 小游戏：吃掉蔡英文
 
-[鹿乃b站](https://b23.tv/kbk5gFW)
+[鹿乃b站](https://space.bilibili.com/316381099)
+|
+[GTryobe的b站](https://b23.tv/kbk5gFW)
 |
 [线上版本](https://gtryobe.github.io/Eat-Tsai-Ing-wen/)
 |
