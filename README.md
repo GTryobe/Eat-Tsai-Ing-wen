@@ -2,7 +2,7 @@
 
 # 吃掉蔡英文
 
-由Arasekkanki制作的[吃掉小鹿奶](https://github.com/arcxingye/EatKano)改版分支
+一个[吃掉小鹿奶](https://github.com/arcxingye/EatKano)的改版分支
 
 </div>
 
